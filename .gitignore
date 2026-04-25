@@ -1,0 +1,13 @@
+# Ignore dataset folder
+dataset/
+
+# Ignore model files
+*.h5
+*.keras
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+venv/
